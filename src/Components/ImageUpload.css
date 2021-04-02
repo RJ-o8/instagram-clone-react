@@ -1,0 +1,31 @@
+.imageUpload{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 10px auto 10px auto;
+    
+}
+
+.uploadProgressbar{
+    width: 98%;
+    margin: 5px;
+
+}
+
+.uploadButton{
+    color: white !important;
+}
+.caption_input{
+    padding: 10px;
+    margin: 5px;
+    outline-width: 0;
+}
+.file_input{
+    padding: 10px;
+    margin: 5px;
+    z-index: 1;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    
+}
+
